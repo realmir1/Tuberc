@@ -1,7 +1,5 @@
 
-pre, code {
-    user-select: none; /* Kod seçimini engeller */
-}
+
 
 
 import os #--------------------------------------------------------------
